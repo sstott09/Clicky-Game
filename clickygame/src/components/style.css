@@ -1,15 +1,42 @@
+#root {
+background-color: black;
+padding-top: .25px;
+}
+
+.brand {
+  font-size: 3em;
+  font-family: fantasy;
+  color: azure
+}
+
+.instructions {
+  color: azure;
+  font-family: fantasy
+}
+
 .image-cards{
-    border-block: #333;
+    image-rendering: optimizeQuality;
     background-size: cover;
     background-position: center;
-    height: 17em;
-    width: 17em;
+    height: 15em;
+    width: 15em;
     margin: .5em;
     padding-left: 1em;
     padding-right: .5em;
     float: left;
 }
 
+.zoom {
+    transition: transform .2s; 
+  }
+
+  .zoom:hover {
+    transform: scale(1.1);
+  }
+
 ul{
-    list-style: none
+  color: rgb(3, 245, 44);
+  list-style: none;
+  padding-bottom: 20px;
+  font-size: 1.6em
 }

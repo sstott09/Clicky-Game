@@ -7,7 +7,7 @@ The Puppy Dog Clicky Game is a React app that tests a user's memory for which pu
 https://sstott09.github.io/Clicky-Game/
 
 ## Demo
-![Example demo] (https://youtu.be/KrBF9-je9qs)
+![Example demo] (/public/puppy-dog-clicky-app.gif)
 
 ## Technologies Used
 * React

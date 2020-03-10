@@ -1,0 +1,34 @@
+{
+  "name": "clicky-game",
+  "version": "1.0.0",
+  "description": "Puppy Dog Clicky Game",
+  "main": "precache-manifest.92559a333392e284514ca148cd1284d0.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"  
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sstott09/Clicky-Game.git"
+  },
+  
+  "author": "Steven Stott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sstott09/Clicky-Game/issues"
+  
+  },
+  "homepage": "https://github.com/sstott09/Clicky-Game#readme",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.1",
+    "@testing-library/user-event": "^7.2.1",
+    "react": "^16.13.0",
+    "reactstrap": "^8.4.1",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.4.0"
+  }
+}

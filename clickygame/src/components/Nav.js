@@ -1,9 +1,11 @@
 import React from  "react";
+import "./style.css"
+
 function Nav(props){
     return(
         <nav className="navbar">
             <ul>
-                <li className="brand">Clicky Game</li>
+                <h1 className="brand">Clicky Game</h1>
 
                 <li>Score: {props.score} | TopScore: {props.topScore}</li>
             </ul>

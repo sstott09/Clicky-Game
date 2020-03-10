@@ -1,0 +1,15 @@
+.image-cards{
+    border-block: #333;
+    background-size: cover;
+    background-position: center;
+    height: 17em;
+    width: 17em;
+    margin: .5em;
+    padding-left: 1em;
+    padding-right: .5em;
+    float: left;
+}
+
+ul{
+    list-style: none
+}

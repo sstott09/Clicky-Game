@@ -12,4 +12,4 @@ https://sstott09.github.io/Clicky-Game/
 ## Technologies Used
 * React
 * Javascript
-* Bootstrap 
+* Reacstrap 
